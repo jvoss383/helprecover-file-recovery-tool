@@ -1,0 +1,7 @@
+C:\Users\Gaming PC\source\repos\helprecover file recovery tool\helprecover file recovery tool\bin\Debug\helprecover file recovery tool.exe.config
+C:\Users\Gaming PC\source\repos\helprecover file recovery tool\helprecover file recovery tool\bin\Debug\helprecover file recovery tool.exe
+C:\Users\Gaming PC\source\repos\helprecover file recovery tool\helprecover file recovery tool\bin\Debug\helprecover file recovery tool.pdb
+C:\Users\Gaming PC\source\repos\helprecover file recovery tool\helprecover file recovery tool\obj\Debug\helprecover file recovery tool.csprojAssemblyReference.cache
+C:\Users\Gaming PC\source\repos\helprecover file recovery tool\helprecover file recovery tool\obj\Debug\helprecover file recovery tool.csproj.CoreCompileInputs.cache
+C:\Users\Gaming PC\source\repos\helprecover file recovery tool\helprecover file recovery tool\obj\Debug\helprecover file recovery tool.exe
+C:\Users\Gaming PC\source\repos\helprecover file recovery tool\helprecover file recovery tool\obj\Debug\helprecover file recovery tool.pdb
